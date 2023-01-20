@@ -1,16 +1,14 @@
-# camera_selling
+# cute_cam
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
+<img src="demo/Screenshot_1673490657 - Copy.png" width="300px" height="auto">
+<img src="demo/Screenshot_1673490661 - Copy.png" width="300px" height="auto">
+<img src="demo/Screenshot_1673490799 - Copy.png" width="300px" height="auto">
+<img src="demo/Screenshot_1673490757 - Copy.png" width="300px" height="auto">
 
-A few resources to get you started if this is your first Flutter project:
+## Download
+<a id="raw-url" href="https://github.com/MirshadRahmanK/Sports_X/raw/main/demo/app-release.apk">Download APK FILE</a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
